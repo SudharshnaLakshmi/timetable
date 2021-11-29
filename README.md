@@ -98,9 +98,12 @@ Execute the program
 
 # OUTPUT:
 ## Server side output:
-![Output](./images/Output1.png)
+![OUTPUT](./images/Output1.png)
+
 ## Client side Output:
-![Output](./images/Output2.png)
+![OUTPUT](./images/Output2.png)
+
+## Validator:
 
 # RESULT:
    A html webpage is successfully created to display the timetable.
