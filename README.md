@@ -22,7 +22,7 @@ Execute the program
 </head>
 
 <body>
-
+    <img src="logo1.png"></img>
    <table border = "1" cellspacing="2" bordercolor="black" >
      <tr>
         <th colspan ="8">TIME TABLE</th>
@@ -92,6 +92,16 @@ Execute the program
         <th align="center">19AI402/Obed Otto C</th>
         <th align="center">19AI402/Obed Otto C</th>
        </tr>
+       </table>
+      <br><center>1. 19AI401 - Fundamentals of Web Technology</center></br>
+      <br><center>2. 19AI301 - Python Programming</center></br>
+      <br><center>3. 19MA220 - Mathematics for Artificial Intelligence</center></br>
+      <br><center>4. 19MA221 - Linear Algebra Laboratory</center></br>
+      <br><center>5. 19AI303 - Engineering Mechanics and Product Development</center></br>
+      <br><center>6. 19AI302 - Engineering Design and modeling</center></br>
+      <br><center>7. ECA051-AD - MENTORING-AD1</center></br>
+      <br><center>8. 19MC802 - Environmental Science</center></br>
+      <br><center>9. 19EY701 - Soft skills</center></br>
 </body>
 </html>
 ```
@@ -105,7 +115,6 @@ Execute the program
 
 ## Validator:
 ![OUTPUT](./images/Validator.png)
-
 
 # RESULT:
    A html webpage is successfully created to display the timetable.
